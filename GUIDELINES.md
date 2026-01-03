@@ -1,4 +1,3 @@
-
 ### Guidelines for Participants:
 1. You initiate the hackathon by forking the Git repository given by PythonGuru, which
 contains instructions and guidelines for the event.
